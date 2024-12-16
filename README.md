@@ -1,1 +1,1 @@
-# Pc-Spec-Website
+# my-pc-specs
