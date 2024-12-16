@@ -26,7 +26,7 @@ Copy code
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/setup-showcase.git
+   git clone https://github.com/Troy212/Pc-Spec-Website.git
 2. Open index.html in your browser to view the website.
 3. Update index.html and style.css to add your specifications and style.
 
